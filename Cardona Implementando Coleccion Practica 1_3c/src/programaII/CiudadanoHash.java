@@ -82,7 +82,7 @@ public class CiudadanoHash extends Ciudadano implements Comparable
                         clearDataHash(ciudadanoHash.getVotantesInfoHash(),ines,nombres,partidos,aux,fileinfo);
                         textVotantes = "";
                         text = "";
-                        file = new File("C:/Users/marcu/OneDrive/Documentos/Estructura de Datos/Casilla1.txt");
+                        file = new File("Casilla1.txt");
                         scanner = new Scanner(file);
                         while(scanner.hasNextLine())
                         {
@@ -106,7 +106,7 @@ public class CiudadanoHash extends Ciudadano implements Comparable
                         clearDataHash(ciudadanoHash.getVotantesInfoHash(),ines,nombres,partidos,aux,fileinfo);
                         textVotantes = "";
                         text = "";
-                        file = new File("C:/Users/marcu/OneDrive/Documentos/Estructura de Datos/Casilla2.txt");
+                        file = new File("Casilla2.txt");
                         scanner = new Scanner(file);
                         while(scanner.hasNextLine())
                         {
@@ -129,7 +129,7 @@ public class CiudadanoHash extends Ciudadano implements Comparable
                         clearDataHash(ciudadanoHash.getVotantesInfoHash(),ines,nombres,partidos,aux,fileinfo);
                         textVotantes = "";
                         text = "";
-                        file = new File("C:/Users/marcu/OneDrive/Documentos/Estructura de Datos/Casilla7.txt");
+                        file = new File("Casilla7.txt");
                         scanner = new Scanner(file);
                         while(scanner.hasNextLine())
                         {
@@ -152,7 +152,7 @@ public class CiudadanoHash extends Ciudadano implements Comparable
                         clearDataHash(ciudadanoHash.getVotantesInfoHash(),ines,nombres,partidos,aux,fileinfo);
                         textVotantes = "";
                         text = "";
-                        file = new File("C:/Users/marcu/OneDrive/Documentos/Estructura de Datos/Casilla8.txt");
+                        file = new File("Casilla8.txt");
                         scanner = new Scanner(file);
                         while(scanner.hasNextLine())
                         {
@@ -175,7 +175,7 @@ public class CiudadanoHash extends Ciudadano implements Comparable
                         clearDataHash(ciudadanoHash.getVotantesInfoHash(),ines,nombres,partidos,aux,fileinfo);
                         textVotantes = "";
                         text = "";
-                        file = new File("C:/Users/marcu/OneDrive/Documentos/Estructura de Datos/Casilla9.txt");
+                        file = new File("Casilla9.txt");
                         scanner = new Scanner(file);
                         while(scanner.hasNextLine())
                         {
